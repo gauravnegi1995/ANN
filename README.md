@@ -1,2 +1,2 @@
-# ANN
-Deep neural network
+# Artificial_neural_net 
+ 
